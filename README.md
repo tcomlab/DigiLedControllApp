@@ -1,3 +1,14 @@
+## DigiLight Control
+Программа керування притроєм DigiLight
+
+  ![window](/assets/window.png)
+
+Програам працює в SystemTray
+
+ ![window](/assets/win2.png)  ![window](/assets/win3.png)
+ 
+
+
 *** 
 ### Для збірки в Pyinstaller єкзешніка використовуем конструкцію
 

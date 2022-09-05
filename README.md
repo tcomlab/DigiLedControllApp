@@ -5,7 +5,7 @@
 
 Програам працює в SystemTray
 
- ![window](/assets/win2.png)  ![window](/assets/win3.png)
+ ![window](/assets/win2.png)  ![window](/assets/pic2.png)
  
 ***
 DigiLight Control v0.1
